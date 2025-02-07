@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/BORA/Documents/Unreal Projects/GigaCadere/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/BORA/Documents/Unreal Projects/GigaCadere/Content/FirstPerson/Blueprints/Components/ParkourMovement.uasset",
+				"C:/Users/BORA/Documents/Unreal Projects/GigaCadere/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/BORA/Documents/Unreal Projects/GigaCadere/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/ZW/C4TJQNPTQDQB0UKDJTWXQM.uasset",
+				"C:/Users/BORA/Documents/Unreal Projects/GigaCadere/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/ME/2DSX9J0ZG9TCVVRW98I4Z2.uasset",
+				"C:/Users/BORA/Documents/Unreal Projects/GigaCadere/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/ZS/GV3SKJSG9W5TFQT4L4QDQH.uasset",
+				"C:/Users/BORA/Documents/Unreal Projects/GigaCadere/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/2A/8U7C7IG3NNZ8SF4RBA0DT9.uasset",
+				"C:/Users/BORA/Documents/Unreal Projects/GigaCadere/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/8S/66NLU1L13712JS75BR4KYP.uasset",
+				"C:/Users/BORA/Documents/Unreal Projects/GigaCadere/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/KB/0LZMRM15AW57SGTGV5PDZA.uasset",
+				"C:/Users/BORA/Documents/Unreal Projects/GigaCadere/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/VL/ZO767CYOQTBJLMF3GUSM0D.uasset",
+				"C:/Users/BORA/Documents/Unreal Projects/GigaCadere/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/KE/EUZFYZYTNOAM3R7RY92555.uasset",
+				"C:/Users/BORA/Documents/Unreal Projects/GigaCadere/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/BORA/Documents/Unreal Projects/GigaCadere/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/ZX/LFSQHRO78LVMBZF4SRRG6W.uasset",
+				"C:/Users/BORA/Documents/Unreal Projects/GigaCadere/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/2W/EVXORGJQBNO4MIDE6AFSEL.uasset",
+				"C:/Users/BORA/Documents/Unreal Projects/GigaCadere/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/8G/2D3782IPA3E6HHUH7O4ESF.uasset",
+				"C:/Users/BORA/Documents/Unreal Projects/GigaCadere/Content/FirstPerson/Blueprints/Enums/E_ParkourMovementType.uasset",
+				"C:/Users/BORA/Documents/Unreal Projects/GigaCadere/Content/FirstPerson/Blueprints/CameraShakes/Jumpland.uasset",
+				"C:/Users/BORA/Documents/Unreal Projects/GigaCadere/Content/FirstPerson/Blueprints/CameraShakes/LedgeGrab.uasset",
+				"C:/Users/BORA/Documents/Unreal Projects/GigaCadere/Content/FirstPerson/Blueprints/CameraShakes/Mantle.uasset",
+				"C:/Users/BORA/Documents/Unreal Projects/GigaCadere/Content/FirstPerson/Blueprints/CameraShakes/QuickMantle.uasset",
+				"C:/Users/BORA/Documents/Unreal Projects/GigaCadere/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R.uasset"
+			]
+		}
+	]
+}
